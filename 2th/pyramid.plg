@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pyramid - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP367F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/pyramid.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\C primer plus\2th\pyramid.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP367F.tmp" 
+<h3>Output Window</h3>
+Compiling...
+pyramid.c
+E:\C primer plus\2th\pyramid.c(12) : error C2143: syntax error : missing ';' before 'type'
+E:\C primer plus\2th\pyramid.c(14) : error C2065: 'out_i' : undeclared identifier
+E:\C primer plus\2th\pyramid.c(17) : error C2065: 'in_i_black' : undeclared identifier
+E:\C primer plus\2th\pyramid.c(20) : error C2065: 'in_i_up' : undeclared identifier
+E:\C primer plus\2th\pyramid.c(23) : error C2065: 'in_i_down' : undeclared identifier
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+pyramid.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

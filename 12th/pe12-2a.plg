@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: pe12-2a - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP1421.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/pe12-2a.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\C primer plus\12th\pe12-2a.c"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP1421.tmp" 
+<h3>Output Window</h3>
+Compiling...
+pe12-2a.c
+
+
+
+<h3>Results</h3>
+pe12-2a.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
